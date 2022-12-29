@@ -13,6 +13,7 @@ This is a web based application developed for travel related based website to pr
 ## Azure Technologies Used For Project
 
 - Web
+- Developer tools
 
 ## Features and Functionalities
 
